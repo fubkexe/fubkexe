@@ -1,1 +1,25 @@
-import pandas as pd
+numero=765
+print("5x1=", numero * 1)
+print("5x2=", numero * 2)
+print("5x3=", numero * 3)
+print("5x4=", numero * 4)
+print("5x5=", numero * 5)
+print("5x6=", numero * 6)
+print("5x7=", numero * 7)
+print("5x8=", numero * 8)
+print("5x9=", numero * 9)
+print("5x10=", numero * 10)
+#esqueci muito rapido
+
+print("tabuada do", numero)
+print (numero, "x 1 =", numero * 1)
+print (numero, "x 2 =", numero * 2)
+print (numero, "x 3 =", numero * 3)
+print (numero, "x 4 =", numero * 4)
+print (numero, "x 5 =", numero * 5)
+print (numero, "x 6 =", numero * 6)
+print (numero, "x 7 =", numero * 7)
+print (numero, "x 8 =", numero * 8)
+print (numero, "x 9 =", numero * 9)
+print (numero, "x 1o =", numero * 10) 
+print (numero, "x 11 =", numero * 11)
